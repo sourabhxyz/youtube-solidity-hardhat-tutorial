@@ -1,5 +1,7 @@
 # ▶️ Course on Solidity
 
+> **NOTE**: This file contains links, etc. referred in my video: https://youtu.be/n3u3AcBBRbU.
+
 ## Recommended JS Course
 
 Again, as such it is not required to study JS before this course as I have explained the semantics of each & every JS line which we code in this course. Also, I believe that having a good understanding of any one programming language helps in picking up another one properly, like, in this Solidity course, you critically see when is a value say is passed by reference & when by value. Therefore, implication of this on computer memory (space complexity) is understood and you'll be careful when using types in another language. Therefore, in case its your first time programming, then it might be a good idea to first finish this course and then learn about JS.
